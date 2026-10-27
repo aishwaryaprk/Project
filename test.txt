@@ -1,0 +1,8 @@
+# write a function which check if number is multiple of 5 or not.
+
+def check_multiple_five(num):
+    if num % 5 == 0:
+        print("It is a multiple of 5")
+    else:
+        print("It is not a multiple of 5")
+
