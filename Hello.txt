@@ -1,2 +1,3 @@
-# Hello from the main branch
-# I am working on this file
+# This is the merge between the featureA and Main Branch
+# Now i solved all conflict
+
